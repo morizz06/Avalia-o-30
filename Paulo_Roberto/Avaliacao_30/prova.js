@@ -27,7 +27,7 @@ for(let x = 1; x<=21 ; x+=2){
 }
 
 
-// Exercício 4
+// EXERCICIO 4
 
 let frutas = ["Maçã", "Banana", "Laranja", "Morango", "Abacaxi"];
 
